@@ -1,0 +1,15 @@
+a+b*c-d
+A+B*(C-D)
+a*(b+c)-d/e
+
+((A+B)*(C+D))
+a*(c+b)
+(A-B)/(C-D)
+A*(B+C)/D
+x/(y*z) 
+(A+B)*C-(D+E)*(F-G)
+A/B+C+D*E+F*G
+(A-B)-(C-D)
+((A+B)*C)+D
+(A+B)*C+D
+
